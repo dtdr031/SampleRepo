@@ -1,0 +1,13 @@
+{
+    "name": "sample-node-out",
+    "version": "1.0.0",
+    "description": "Node.js project ready with out folder for deployment",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js",
+      "build": "node build/generate.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }  
